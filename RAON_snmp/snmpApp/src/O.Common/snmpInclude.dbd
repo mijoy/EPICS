@@ -1,0 +1,3 @@
+include "base.dbd"
+include "snmpRecord.dbd"
+include "snmpDevSoft.dbd"

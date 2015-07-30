@@ -1,0 +1,4 @@
+epicsEnvSet("ARCH","linux-x86_64")
+epicsEnvSet("IOC","iocsnmp")
+epicsEnvSet("TOP","/home/mijoy0909/epics/R3.14.12.5/RAON_snmp")
+epicsEnvSet("EPICS_BASE","/home/mijoy0909/epics/R3.14.12.5/base")
